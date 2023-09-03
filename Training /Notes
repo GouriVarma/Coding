@@ -1,0 +1,16 @@
+Strings
+---->character based,word based,number based
+& in not compulsory in scanning Strings
+scanf("%[^]s",a).............until newline scan
+fgets restricts the scan no
+if int array we will got till las el of array ,in case of char we go till null or \0
+ascii values (0-127)
+   0:null
+   1-31: control keys
+   32: null
+   48-57: numbers
+   65-90: Uppercase
+   97-122: lower case
+   remaining : symbols
+
+   track encrypt not reused,encrypt should be correct
